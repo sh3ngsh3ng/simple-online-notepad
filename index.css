@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+
+.container {
+    width: 100%;
+    min-height: 100vh;
+    color: black;
+    padding: 2%;
+}
+
+.input-box {
+    background-color: lightyellow;
+    height: 90vh;
+    border: 1px black solid;
+    border-radius: 10px;
+    padding: 30px 30px;
+}
